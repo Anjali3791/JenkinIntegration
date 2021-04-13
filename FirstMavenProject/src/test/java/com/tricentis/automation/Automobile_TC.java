@@ -19,7 +19,11 @@ public class Automobile_TC {
 	}
 	
 	
-	
+	@Test
+	public void test3() {
+		
+		System.out.println("test3");
+	}
 	
 	
 	
